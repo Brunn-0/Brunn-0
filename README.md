@@ -1,10 +1,7 @@
 ## Olá! Eu sou o Bruno Moreira 👋
 
-- 💻 Sou iniciante na area de desenvolvimento software. Atualmente estou cursando análise e desenvolvimento de sistema.
+- 💻 Atualmente estou cursando análise e desenvolvimento de sistema.
 - 📚 Estudando Front-And
-- 📫 Contate-me no e-mail: brunoms.wk@gmail.com
-- 😄 Pronouns: he/him
-
   
 <div 
   style="display: inline_block"><br>
